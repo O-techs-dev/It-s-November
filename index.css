@@ -59,7 +59,7 @@ font-style: italic;
  img{
     width: 55px;
     position: relative;
-    left: 35%;
+    left: 30%;
     top: 70px;
     cursor: pointer;
  }
@@ -73,7 +73,7 @@ font-style: italic;
 .imgs{
     line-height: 5;
     position: relative;
-    left: 3%;
+    left: 2%;
     
 }
 .img-1:hover{

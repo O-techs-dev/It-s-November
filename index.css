@@ -7,8 +7,8 @@
 }
 body{
     color: white;
-        position: relative;
-         min-height: 500px;
+           position: relative;
+    min-height: 753px;
          background: url(images/pretty-daisies-yellow-background-with-copyspace-bottom.jpg);
          background-position: center;
          background-size: cover;
@@ -20,7 +20,7 @@ body{
 }
  h1{
     text-align: center;
-    padding: 30px;
+    padding: 50px;
     font-family: 'Ballet', sans-serif;
  }
 p{
@@ -30,7 +30,7 @@ p{
     font-family: 'Mystery Quest', cursive;
 }
 .moto{
-    font-size: medium;
+    font-size: smaller;
     color: black;
     margin-left: 15px;
      
@@ -38,7 +38,7 @@ p{
   
    
  .big-moto{
-    font-size: 100%;
+    font-size: 200%;
     color: rgba(173, 11, 11, 0.753);
     margin-left: 15px;
  }
@@ -54,10 +54,10 @@ font-style: italic;
     color: brown;
 }
  img{
-    width: 90px;
+    width: 40px;
     position: relative;
-    left: 42%;
-    top: 25px;
+    left: 38%;
+    top: 30px;
     cursor: pointer;
  }
 .img-1{
@@ -91,5 +91,5 @@ footer{
     color: black;
     padding: 10px;
     text-align: center;
-    font-size: 40%;
+    font-size: 50%;
    }

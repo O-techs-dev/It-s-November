@@ -16,6 +16,7 @@ body{
          transition: 0.5s;
          filter: brightness(100%);  
          overflow: hidden;
+     font-size: 50%;
 }
  h1{
     text-align: center;
@@ -90,5 +91,5 @@ footer{
     color: black;
     padding: 10px;
     text-align: center;
-    font-size: large;
+    font-size: 40%;
    }

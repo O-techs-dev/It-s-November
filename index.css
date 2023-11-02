@@ -60,7 +60,7 @@ font-style: italic;
     width: 55px;
     position: relative;
     left: 35%;
-    top: 50px;
+    top: 70px;
     cursor: pointer;
  }
 .img-1{
@@ -73,7 +73,7 @@ font-style: italic;
 .imgs{
     line-height: 5;
     position: relative;
-    left: 8%;
+    left: 3%;
     
 }
 .img-1:hover{
@@ -97,5 +97,5 @@ footer{
     color: black;
     padding: 10px;
     text-align: center;
-    font-size: 50%;
+    font-size: 70%;
    }

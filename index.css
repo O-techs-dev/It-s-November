@@ -1,0 +1,94 @@
+@import url(Ballet/Ballet-Regular-VariableFont_opsz.ttf);
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+   
+}
+body{
+    color: white;
+        position: relative;
+         min-height: 500px;
+         background: url(images/pretty-daisies-yellow-background-with-copyspace-bottom.jpg);
+         background-position: center;
+         background-size: cover;
+         background-repeat: no-repeat;
+         transition: 0.5s;
+         filter: brightness(100%);  
+         overflow: hidden;
+}
+ h1{
+    text-align: center;
+    padding: 30px;
+    font-family: 'Ballet', sans-serif;
+ }
+p{
+    line-height: 1;
+}
+.to{
+    font-family: 'Mystery Quest', cursive;
+}
+.moto{
+    font-size: medium;
+    color: black;
+    margin-left: 15px;
+     
+  }
+  
+   
+ .big-moto{
+    font-size: 100%;
+    color: rgba(173, 11, 11, 0.753);
+    margin-left: 15px;
+ }
+  
+.write{
+text-align: center;
+font-size: larger;
+color: blue;
+font-style: italic;
+
+}
+.nov{
+    color: brown;
+}
+ img{
+    width: 90px;
+    position: relative;
+    left: 42%;
+    top: 25px;
+    cursor: pointer;
+ }
+.img-1{
+    left: 30%;
+}
+.img-3{
+    left: 57%;
+     
+}
+.imgs{
+    line-height: 5;
+}
+.img-1:hover{
+    transform: scale(1.2);
+    transition: 0.5s ease-out; 
+}
+.img-3:hover{
+    transform: scale(1.2);
+    transition: 0.5s ease-out; 
+}
+ .img-2:hover{
+    transform: scale(1.2);
+    transition: 0.5s ease-out; 
+}
+footer{
+    position: relative;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    font-size: 67%;
+    color: black;
+    padding: 10px;
+    text-align: center;
+    font-size: large;
+   }

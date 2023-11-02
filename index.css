@@ -29,6 +29,9 @@ p{
 .to{
     font-family: 'Mystery Quest', cursive;
 }
+.says{
+    font-size: 80%;
+}
 .moto{
     font-size: smaller;
     color: black;
@@ -54,7 +57,7 @@ font-style: italic;
     color: brown;
 }
  img{
-    width: 40px;
+    width: 50px;
     position: relative;
     left: 38%;
     top: 30px;
